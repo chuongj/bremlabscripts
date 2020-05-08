@@ -1,5 +1,5 @@
-#5/5/20-Wrangle TECAN28C data to be wide format so then I can get the rate for downstream ANOVA
-#TECAN 96wp format is xfluor format. Change to wide with time as first column.
+#5/5/20-Wrangle TECAN28C data to be long format so then I can get the rate for downstream ANOVA
+#TECAN 96wp format is xfluor format. Change to long with time as first column.
 #Handle 3 bioreps from different days,  each on a separate .csv 
 #Later -  feed it thru the nonlinear regression function. 
 
